@@ -24,3 +24,9 @@ The objective of this project is to analyze e-commerce sales data and build an i
 * The West region contributed the highest sales among all regions.
 * The sales trend helped identify changes in performance over different time periods.
 * The dashboard highlighted the top products that contributed to overall sales.
+* ## Project Insights
+
+- Technology was the highest-performing category in terms of both sales and profit.
+- The West region contributed the highest sales among all regions.
+- The sales trend showed how performance changed over different time periods.
+- The dashboard highlighted the top products contributing to overall sales.
