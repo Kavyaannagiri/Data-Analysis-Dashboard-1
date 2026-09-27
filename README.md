@@ -19,13 +19,8 @@ The objective of this project is to analyze e-commerce sales data and build an i
 ## Dashboard
 <img width="1167" height="661" alt="E-Commerce Sales Data-1" src="https://github.com/user-attachments/assets/130cce58-03aa-45e5-b228-c14f6ef0b3e1" />
 <img width="1160" height="657" alt="E-Commerce Sales Data-2" src="https://github.com/user-attachments/assets/2e11d47d-2b23-4c3d-b99c-538ca6a8119c" />
-## Project Insights
-* Technology was the highest-performing category in terms of both sales and profit.
-* The West region contributed the highest sales among all regions.
-* The sales trend helped identify changes in performance over different time periods.
-* The dashboard highlighted the top products that contributed to overall sales.
-* ## Project Insights
 
+## Project Insights
 - Technology was the highest-performing category in terms of both sales and profit.
 - The West region contributed the highest sales among all regions.
 - The sales trend showed how performance changed over different time periods.
