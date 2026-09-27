@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard-1
-Interactive E-commerce Sales Analysis dashboard built using Power BI. The project focuses on data cleaning and transformation with Power Query, data modeling, DAX calculations, and interactive visualizations to analyze sales, profit, products, regions, and trends
+# E-Commerce Sales Analysis Dashboard
+## Project Objective
+The objective of this project is to analyze e-commerce sales data and build an interactive Power BI dashboard to understand sales performance, profitability, products, regions, and sales trends.
