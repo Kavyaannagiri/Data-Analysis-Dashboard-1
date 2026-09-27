@@ -25,5 +25,5 @@ The objective of this project is to analyze e-commerce sales data and build an i
 - The West region contributed the highest sales among all regions.
 - The sales trend showed how performance changed over different time periods.
 - The dashboard highlighted the top products contributing to overall sales.
-## Conclusion
+## Final Conclusion
 This project helped transform raw e-commerce data into an interactive Power BI dashboard. The dashboard provides a clear view of sales and profit performance across categories, regions, products, and time, making it easier to understand business trends and insights.
