@@ -10,3 +10,4 @@ The objective of this project is to analyze e-commerce sales data and build an i
 - What are the sales trends over time?
 - Which products contribute the most to sales?
 - What is the average sales value?
+-Dashboard interaction <a href="https://github.com/Kavyaannagiri/Data-Analysis-Dashboard-1/blob/main/E-Commerce%20Sales%20Data-1.png">View Dashboard</a>
